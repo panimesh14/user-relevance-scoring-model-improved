@@ -1,0 +1,58 @@
+#100% college_tier_numerical absent and to be dropped-either rank not available, 
+#100% talks_about absent dropped
+#100% services_provided missing dropped
+#100% age_on_linked_in missing so dropped
+#100% num_of_recommendation_given missing so dropped
+#100% num_of_recommendation_received missing so dropped
+#100% num_of_featured_post missing so dropped
+#100% num_of_certification missing so dropped
+#100% num_of_research_paper missing so dropped
+#gender_score/Gender has all nulls-100% missing
+#max_number_of_endorsement has all 0s (max and min range steady at 0) with 30% missing values
+#average_company_tenure to be resampled
+#jobs_count_by_experience to be resampled
+#number of connections has 89.16% null values 
+
+#max_number_of_endorsement is around 30.95% nulls
+#designation has 30.79% missing values due to nulls, NaNs, missing data records
+#highest_degree_of_education has 32% nulls which may be a result of missing values, profiles with missing data-Also, repeat column.
+#years_of_experience missing 28.98% values-can be approximated using product of average tenure and number of years
+#num_of_jobs has 28.98% missing values-count of jobs missing due to unshared user data, unavailability of shareable records  
+#designation has 30% missing values due to nulls, NaNs, missing data records
+#highest_degree_of_education has 32% nulls which may be a result of missing values, profiles with missing data-Also, repeat column.
+#years_of_experience missing 28.98% values-can be approximated using product of average tenure and number of years
+#num_of_jobs has 28.98% missing values
+#jobs_count_by_experience also has 28.98% missing values
+#average_company_tenure also has 28.98% missing values
+#followers has 28.98% missing values-can be filled with connections---
+#posts_per_week has 28.98% missing values
+#avg_engagement_per_post_last_30_days has 28.98% values
+#num_post_last_30_days has 28.98% values
+#num_comments_last_30_days has 28.98% values
+#num_reactions_last_30_days has 28.98% missing values
+#avg_likes_per_post_by_following has 29.10% missing values
+#avg_comments_per_post_by_following has 29.10% missing values
+#num_of_documents has 28.98% missing values 
+#num_of_articles has 28.98% missing values
+#email_present has 28.98% missing values
+#instagram_flag has 28.98% missing values
+#twitter_flag has 28.98% missing values
+#youtube_flag has 28.98% missing values
+#profile_picture_present has 28.98% missing values
+#cover_picture_present has 28.98% missing values
+#num_of_connections has 89.16% missing values-to be dropped-cause of absence
+#creator_mode has 29.82% missing values 
+#num_promotional_posts_last_30_day has 28.98% missing values
+#avg_likes_per_post_last_30_days has 28.98% missing values
+#avg_comments_per_post_last_30_days has 28.98% missing values
+#booking_count has 28.98% missing values
+#gross_earning has 28.98% missing values
+#core_earning has 32.79% missing values
+#profile_views has 28.98% missing values
+#active_days has 28.98% missing values
+#age_in_days has 28.98% missing values
+#currency has 28.98% missing values
+#gross_bookings_count has 28.98% missing values
+#one_on_one_bookings_count has 28.98% missing values
+#max_number_of_endorsement has 30% missing values
+#average_endorsement has 29.78% missing values
